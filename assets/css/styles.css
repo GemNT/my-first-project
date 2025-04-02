@@ -12,3 +12,6 @@ h2 {
     color: orangered;
 }
 
+p {
+    text-transform: bold;
+}
